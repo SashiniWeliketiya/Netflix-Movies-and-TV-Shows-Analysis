@@ -41,8 +41,6 @@ This project focuses on cleaning and preprocessing a raw dataset containing miss
 
 <img width="1897" height="902" alt="1" src="https://github.com/user-attachments/assets/4283f599-7866-4457-b1b1-7d1fe376cd2e" />
 <img width="1892" height="970" alt="2" src="https://github.com/user-attachments/assets/3c21026d-9fe4-4cd5-acf9-4cccb51e3e5b" />
-<img width="1890" height="923" alt="3" src="https://github.com/user-attachments/assets/c6d389e8-e70a-4807-8cc5-f14b89b82649" />
-<img width="1880" height="931" alt="4" src="https://github.com/user-attachments/assets/9cb8ce89-1efc-4d2b-8369-3ab5e0636a94" />
 <img width="1895" height="932" alt="5" src="https://github.com/user-attachments/assets/55d63e4d-677d-43a2-af21-3be63cb03814" />
 
 
