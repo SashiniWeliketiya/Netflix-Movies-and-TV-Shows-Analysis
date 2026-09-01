@@ -37,3 +37,7 @@ This project focuses on cleaning and preprocessing a raw dataset containing miss
 - `cleaned_netflix_movies.csv` (Cleaned & Processed Dataset)
 - Python Notebook / Code Script (`.ipynb` / `.py`)
 - `README.md` (Project Documentation)
+
+
+<img width="1897" height="902" alt="1" src="https://github.com/user-attachments/assets/4283f599-7866-4457-b1b1-7d1fe376cd2e" />
+
